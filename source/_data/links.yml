@@ -1,0 +1,24 @@
+博客:
+    link: http://blog.csdn.net/reoger
+    avatar: http://avatar.csdn.net/5/E/6/1_reoger.jpg
+    descr: "我的csdn博客"
+我的博客:
+    link: http://www.jianshu.com/u/82b01c3d8a35
+    avatar: http://upload.jianshu.io/users/upload_avatars/2178834/468b412c-1a37-4509-a649-f6091423a114.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240
+    descr: "我的简书博客"
+并发编程网:
+    link: http://ifeve.com/
+    avatar: http://avatar.csdn.net/5/E/6/1_reoger.jpg
+    descr: "java中并发高级编程"
+android中国:
+    link: http://www.androidchina.net/
+    avatar: http://upload-images.jianshu.io/upload_images/2292129-c9d121a318a93452.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+    descr: "丰富的android资料"
+数据云API:
+    link: http://docs.apicloud.com/Cloud-API/data-cloud-api
+    avatar: http://docs.apicloud.com/img/docImage/overview.jpg
+    descr: "APICloud为开发者从“云”和“端”两个方向提供API"
+玩android:
+    link: http://wanandroid.com/
+    avatar: http://wanandroid.com/resources/image/pc/logo.png
+    descr: "提供优秀的android博文资源"
