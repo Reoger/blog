@@ -1,8 +1,8 @@
 ---
 title: Class文件结构--常量池（一）
 date: 2018-10-14 14:56:55
-categories: 转载
-tags: java,class
+categories: java 
+tags: java,class,转载
 ---
 
 
