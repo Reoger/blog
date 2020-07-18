@@ -1,11 +1,9 @@
 ---
-layout: ConcurrentHashMap
 title: ConcurrentHashMap 详解
 date: 2020-05-17 15:43:05
 categories: java
-tags: android, hashMap
+tags: [android, hashMap]
 ---
-
 
 问题：
 1. 使用 Hashmap 进行 put 操作会引起死循环，导致CPU利用率接近100%，所以在并发情况下不能使用HashMap。

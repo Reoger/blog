@@ -2,7 +2,7 @@
 title: git 学习记录
 date: 2018-01-15 19:50:52
 categories: system 
-tags: git
+tags: [git]
 ---
 
 git作为老牌的版本控制工具，功能和作用就不用说了。今天就记录一下，今天的学习成功吧。

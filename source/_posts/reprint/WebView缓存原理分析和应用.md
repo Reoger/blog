@@ -2,7 +2,7 @@
 title: 散记
 date: 2018-08-22 14:44:55
 categories: reprint
-tags: android,webView
+tags: [android,webView]
 ---
 
 WebView缓存原理分析和应用

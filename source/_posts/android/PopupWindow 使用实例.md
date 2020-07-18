@@ -2,7 +2,7 @@
 title: PopupWindow 使用实例
 date: 2018-07-20 22:44:55
 categories: android
-tags: android, PopupWindows
+tags: [android,PopupWindows]
 ---
 # PopupWindow 使用实例
 ``popupWindows``是一个弹出框的界面载体，类似于``AlertDialog``，但它比``AlertDialog``更加灵活，能更加精确的指定其所在的位置。

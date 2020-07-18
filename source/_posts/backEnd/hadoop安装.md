@@ -2,7 +2,7 @@
 title: hadoop入门基础
 date: 2017-10-17 19:34:05
 categories: backEnd
-tags: hadoop
+tags: [hadoop]
 ---
 > [Apache Hadoop](http://hadoop.apache.org/)是一个在商业硬件大型集群上运行应用程序的框架。Hadoop框架为应用程序提供透明的可靠性和数据运动。Hadoop实现了一个名为[Map / Reduce](https://wiki.apache.org/hadoop/HadoopMapReduce)的计算范例，其中应用程序分为许多小的工作片段，每个工作片段都可以在集群中的任何节点上执行或重新执行。此外，它还提供了一种在计算节点上存储数据的分布式文件系统（[HDFS](https://wiki.apache.org/hadoop/DFS)），可在集群中提供非常高的聚合带宽。两者的[MapReduce](https://wiki.apache.org/hadoop/MapReduce)和Hadoop分布式文件系统的设计使得节点故障是由框架自动处理。
 

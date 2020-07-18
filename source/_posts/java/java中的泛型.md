@@ -2,7 +2,7 @@
 title: java中的泛型
 date: 2018-08-15 14:44:55
 categories: java
-tags: android,java,T,泛型
+tags: [android,java,T,泛型]
 ---
 
 # 什么是泛型

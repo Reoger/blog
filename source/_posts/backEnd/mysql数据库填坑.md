@@ -2,7 +2,7 @@
 title: mysql数据库填坑
 date: 2017-11-28 19:08:25
 categories: backEnd
-tags: database
+tags: [database]
 ---
 
 > mysql是一个比较轻量级的数据库，在日常的开发过程中经常会用到，这里记录一下我在用mysql数据库时遇到的坑。

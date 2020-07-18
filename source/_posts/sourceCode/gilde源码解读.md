@@ -3,7 +3,7 @@ date: 2017-08-19 18:50
 status: public
 categories: sourceCode 
 title: glide原理解读
-tags: source,glide
+tags: [source,glide]
 ---
 
 >glide是一个快速，高效的开源媒体管理和Android的图像加载框架，将媒体解码，内存，磁盘缓存和资源池封装成一个简单易于使用的接口。

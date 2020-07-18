@@ -2,7 +2,7 @@
 title: android中的测试
 date: 2018-08-26 16:13:55
 categories: android
-tags: android,junit
+tags: [android,junit]
 ---
 
 # 单元测试

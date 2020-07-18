@@ -2,7 +2,7 @@
 title: java知识点
 date: 2017-09-06 22:19:31
 categories: java 
-tags: java,review
+tags: [java,review]
 ---
 
 # 面相对象的特征？

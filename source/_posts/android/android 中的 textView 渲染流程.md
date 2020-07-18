@@ -2,7 +2,7 @@
 title: android中的类加载
 date: 2020-07-11 10:23:33
 categories: android
-tags: android, TextView
+tags: [android,TextView]
 ---
 
 ## 带着问题看源码

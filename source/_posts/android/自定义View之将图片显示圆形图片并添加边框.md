@@ -2,7 +2,7 @@
 title: 自定义View之将图片显示圆形图片并添加边框
 date: 2018-08-04 16:44:55
 categories: android
-tags: android,CircleImageView
+tags: [android,CircleImageView]
 ---
 # 效果预览
 ![效果预览](http://ovec6nnof.bkt.clouddn.com/image1.png)

@@ -2,7 +2,7 @@
 title: Android插件化原理解析——概要
 date: 2018-08-07 16:44:55
 categories: reprint 
-tags: android,classLoader
+tags: [android,classLoader]
 ---
 
 Android插件化原理解析——概要

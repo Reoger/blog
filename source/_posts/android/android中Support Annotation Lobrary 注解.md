@@ -2,7 +2,7 @@
 title: android中Support Annotation Lobrary 注解
 date: 2018-07-10 14:04:48
 categories: android
-tags: android,annotations
+tags: [android,annotations]
 ---
 # android中Support Annotation Lobrary 注解
 

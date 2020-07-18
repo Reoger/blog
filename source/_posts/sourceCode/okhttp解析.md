@@ -2,7 +2,7 @@
 title: okhttp解析
 date: 2017-09-02 20:19:55
 categories: sourceCode
-tags: source,okhttp
+tags: [source,okhttp]
 ---
 
 > OkHttp是一个处理网络请求的开源项目,是Android端最火热的轻量级框架,由移动支付Square公司贡献用于替代HttpUrlConnection和Apache HttpClient。随着OkHttp的不断成熟，越来越多的Android开发者使用OkHttp作为网络框架。

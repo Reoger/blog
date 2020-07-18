@@ -3,7 +3,7 @@ layout: Java 中的 trim() 和 kotlin 中的 trim()
 title: Java 中的 trim() 和 kotlin 中的 trim()
 date: 2020-06-06 17:34:05
 categories: kotlin 
-tags: android,trim(),unicode
+tags: [android,trim,unicode]
 ---
 
 # java 中 trim 方法的实现

@@ -2,7 +2,7 @@
 title: kotlin 中的拓展函数
 date: 2020-07-08 20:43:34
 tags: kotlin
-categories: kotlin,let,run
+categories: [kotlin,let,run]
 ---
 
 

@@ -2,7 +2,7 @@
 title: centos 6.5下安装ElasticSearch5.6.1问题记录
 date: 2017-11-06 22:44:55
 categories: backEnd 
-tags: eleasticSearch
+tags: [eleasticSearch]
 ---
 
 > 之前在window 10上安装elasticSearch是很简单的，但是真正要linux系统上安装时，还是出现了许多的问题，下面就是我记录的我遇到的一些问题。

@@ -2,7 +2,7 @@
 title: AOP 编程
 date: 2018-01-18 20:22:12
 categories: android 
-tags: android,aop
+tags: [android,aop]
 ---
 
 # 参考资料

@@ -2,7 +2,7 @@
 title: 一键脚本搭建SS/搭建SSR服务并开启BBR加速
 date: 2018-07-30 15:44:55
 categories: reprint
-tags: ss,ssr
+tags: [ss,ssr]
 ---
 # 一键脚本搭建SS/搭建SSR服务并开启BBR加速
 

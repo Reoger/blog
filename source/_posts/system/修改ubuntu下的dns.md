@@ -2,7 +2,7 @@
 title: 修改ubuntu下的dns
 date: 2018-10-13 19:08:55
 categories: system 
-tags: linux
+tags: [linux]
 ---
 
 # 修改ubuntu下的dns

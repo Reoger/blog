@@ -2,7 +2,7 @@
 title: elasticsearch入门
 date: 2017-09-27 20:48:46
 categories: backEnd
-tags: eleasticSearch
+tags: [eleasticSearch]
 ---
 
 # Elasticsearch 是什么

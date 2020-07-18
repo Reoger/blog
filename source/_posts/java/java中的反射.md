@@ -2,7 +2,7 @@
 title: java中的反射
 date: 2018-08-15 14:44:55
 categories: java 
-tags: android,reflection
+tags: [android,reflection]
 ---
 
 # java中的反射

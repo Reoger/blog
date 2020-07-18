@@ -2,7 +2,7 @@
 title: android-开发技巧表
 date: 2018-01-17 19:50:52
 categories: android 
-tags: android,debug
+tags: [android,debug]
 ---
 
 # 参考链接

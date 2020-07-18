@@ -2,7 +2,7 @@
 title: Class文件结构--常量池（一）
 date: 2018-10-14 14:56:55
 categories: java 
-tags: java,class,转载
+tags: [java,class,转载]
 ---
 
 

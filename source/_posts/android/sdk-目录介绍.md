@@ -2,7 +2,7 @@
 title: sdk 目录介绍
 date: 2018-01-11 21:19:46
 categories: android
-tags: android,sdk
+tags: [android,sdk]
 ---
 
 # sdk 目录下各目录详解

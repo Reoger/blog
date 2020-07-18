@@ -2,7 +2,7 @@
 title: gradle基础
 date: 2018-01-12 14:50:13
 categories: android
-tags: android,gradle
+tags: [android,gradle]
 ---
 
 *Gradle 是一个能通过插件形式自定义构建逻辑的优秀构建工具。*

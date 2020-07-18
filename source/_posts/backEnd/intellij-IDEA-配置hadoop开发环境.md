@@ -2,7 +2,7 @@
 title: intellij IDEA 配置hadoop开发环境
 date: 2017-10-23 15:10:25
 categories: backEnd 
-tags: others,hadoop
+tags: [others,hadoop]
 ---
 
 > 在参考了众多的参考资料之后，终于搭建搭建起了了intellij-IDEA开发hadoop环境，下面就记录一下开发环境的建立过程，以免日后遗忘。

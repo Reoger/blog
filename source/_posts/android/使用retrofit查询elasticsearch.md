@@ -2,7 +2,7 @@
 title: android端对elasticsearch进行增、删、改、查
 date: 2017-10-12 16:33:08
 categories: android
-tags: andrid,okhttp
+tags: [andrid,okhttp]
 ---
 
 > Retrofit与okhttp共同出自于Square公司，retrofit就是对okhttp做了一层封装。把网络请求都交给给了Okhttp，我们只需要通过简单的配置就能使用retrofit来进行网络请求了，其主要作者是Android大神JakeWharton。

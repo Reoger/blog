@@ -2,7 +2,7 @@
 title: imageLoader解析
 date: 2017-09-02 19:00:47
 categories: sourceCode
-tags: soure,imageLoader 
+tags: [soure,imageLoader ]
 ---
 
 >``ImageLoader``是最早开源的 ``Android`` 图片缓存库, 强大的缓存机制, 早期使用这个图片加载框架的android应用非常多， 至今仍然有不少``Android`` 开发者在使用。
