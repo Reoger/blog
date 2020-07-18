@@ -1,7 +1,7 @@
 ---
 title: mysql数据库填坑
 date: 2017-11-28 19:08:25
-categories: 杂烩
+categories: backEnd
 tags: database
 ---
 

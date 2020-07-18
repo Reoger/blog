@@ -1,7 +1,7 @@
 ---
 title: java知识点
 date: 2017-09-06 22:19:31
-categories: 面试
+categories: java 
 tags: java,review
 ---
 

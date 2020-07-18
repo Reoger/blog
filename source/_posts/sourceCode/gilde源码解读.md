@@ -1,7 +1,7 @@
 ---
 date: 2017-08-19 18:50
 status: public
-categories: 源码解读
+categories: sourceCode 
 title: glide原理解读
 tags: source,glide
 ---

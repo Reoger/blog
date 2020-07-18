@@ -1,8 +1,8 @@
 ---
 title: 判断当前view是否显示
 date: 2018-04-13 22:34:53
-categories: 实习日记
-tags: android
+categories: android
+tags: android,view
 ---
 
 最近有一个这样的需求，需要知道某个view的展示率，但是这个view嵌套在一个滑动布局中，在当前view已经被添加到滑动布局的前提下，该view也不一定会展示，可能会出现的情况如下所示：

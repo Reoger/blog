@@ -1,7 +1,7 @@
 ---
 title: 散记
 date: 2018-08-22 14:44:55
-categories: 转载
+categories: reprint
 tags: android,webView
 ---
 

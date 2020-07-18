@@ -1,7 +1,7 @@
 ---
 title: android面试准备
 date: 2017-08-28 13:35:40
-categories: 面试
+categories: review 
 tags: android，review
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: android-开发技巧表
 date: 2018-01-17 19:50:52
-categories: 实习日记
+categories: android 
 tags: android,debug
 ---
 
