@@ -2,7 +2,7 @@
 title: LayoutParams 使用
 date: 2018-07-09 10:55:48
 categories: android
-tags: android
+tags: android,LayoutParams
 ---
 #  ViewGroup.LayoutParams 的使用记录
 LayoutParams类 一般用来child view（子视图） 向 parent view（父视图）传达自己的意图（孩子想变成什么样向其父亲说明），即子布局想在父布局中显示的属性（例如子布局多大、在那个位置）通过LayoutParams来进行展示。

@@ -1,7 +1,7 @@
 ---
 title: git 学习记录
 date: 2018-01-15 19:50:52
-categories: 实习日记
+categories: system 
 tags: git
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: AOP 编程
 date: 2018-01-18 20:22:12
-categories: 实习日记
+categories: android 
 tags: android,aop
 ---
 

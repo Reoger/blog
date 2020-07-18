@@ -1,7 +1,7 @@
 ---
 title: hdfs基本操作
 date: 2017-10-24 09:42:01
-categories: 后端学习
+categories: backEnd
 tags: hdfs
 ---
 >HDFS（Hadoop Distributed File System）是Hadoop分布式计算中的数据存储系统，是基于流数据模式访问和处理超大文件的需求而开发的。

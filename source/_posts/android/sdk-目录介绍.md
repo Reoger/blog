@@ -1,7 +1,7 @@
 ---
 title: sdk 目录介绍
 date: 2018-01-11 21:19:46
-categories: 实习日记
+categories: android
 tags: android,sdk
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: centos 6.5下安装ElasticSearch5.6.1问题记录
 date: 2017-11-06 22:44:55
-categories: 杂烩 
+categories: backEnd 
 tags: eleasticSearch
 ---
 

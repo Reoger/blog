@@ -1,7 +1,7 @@
 ---
 title: intellij IDEA 配置hadoop开发环境
 date: 2017-10-23 15:10:25
-categories:杂烩 
+categories: backEnd 
 tags: others,hadoop
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: LinkedHashMap实现LRUCache
 date: 2018-11-12 23:14:55
-categories: java
-tags: java
+categories: sourceCode
+tags: java,HashMap,LRUCache
 ---
 
 # LinkedHashMap实现LRUCache

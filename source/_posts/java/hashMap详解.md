@@ -2,8 +2,8 @@
 layout: ConcurrentHashMap
 title: ConcurrentHashMap 详解
 date: 2020-05-17 15:43:05
-categories: android基础
-tags: android
+categories: java
+tags: android, hashMap
 ---
 
 

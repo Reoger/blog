@@ -1,8 +1,8 @@
 ---
 title: java中的动态代理
 date: 2018-08-07 16:44:55
-categories: android
-tags: android,java
+categories: java 
+tags: android,java,动态代理
 ---
 # 代理模式
 什么是代理模式？代理模式给某一个对象提供一个代理对象，并由代理对象控制对原对象的引用。通俗的来讲代理模式就是我们生活中常见的中介。

@@ -1,7 +1,7 @@
 ---
 title: elasticsearch入门
 date: 2017-09-27 20:48:46
-categories: 杂烩
+categories: backEnd
 tags: eleasticSearch
 ---
 

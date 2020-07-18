@@ -1,7 +1,7 @@
 ---
 title: gradle基础
 date: 2018-01-12 14:50:13
-categories: 实习日记
+categories: android
 tags: android,gradle
 ---
 

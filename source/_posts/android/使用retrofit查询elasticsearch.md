@@ -1,7 +1,7 @@
 ---
 title: android端对elasticsearch进行增、删、改、查
 date: 2017-10-12 16:33:08
-categories: 杂烩
+categories: android
 tags: andrid,okhttp
 ---
 

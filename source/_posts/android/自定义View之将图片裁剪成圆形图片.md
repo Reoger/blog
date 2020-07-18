@@ -2,7 +2,7 @@
 title: 自定义View之将图片裁剪成圆形图片
 date: 2018-08-02 16:44:55
 categories: android
-tags: android
+tags: android,CircleImageView
 ---
 # 自定义View之将图片裁剪成圆形图片
 

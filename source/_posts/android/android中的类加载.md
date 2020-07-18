@@ -1,7 +1,7 @@
 ---
 title: android中的类加载
 date: 2018-03-17 21:21:33
-categories: 实习日记
+categories: android
 tags: android,classLoader
 ---
 主要介绍几个知识点：
